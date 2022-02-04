@@ -13,7 +13,8 @@ namespace testForms
     {
         public string operation, buffer;
         public double num1, num2;
-        public char operationChar;
+        public char operationChar = 'a';
+        public bool operationPresent;
         public Calculator() => InitializeComponent();
 
         private void Form1_Load(object sender, EventArgs e)
@@ -49,18 +50,39 @@ namespace testForms
 
         private void EnterPress(object sender, EventArgs e)
         {
-            operationChar = operation.ToCharArray()[0];
+            operationPresent = false;
+            try
+            {
+                operationChar = operation.ToCharArray()[0];
+            }
+            catch (Exception)
+            {
+                return;
+            }
             foreach (char c in label1.Text)
             {
                 if (c == operationChar)
                 {
                     num1 = Double.Parse(buffer);
                     buffer = "";
+                    operationPresent = true;
                     continue;
                 }
                 buffer = buffer + c;
             }
-            num2 = Double.Parse(buffer);
+            try
+            {
+                num2 = Double.Parse(buffer);
+            }
+            catch(Exception)
+            {
+                return;
+            }
+
+            if (operationPresent == false)
+            {
+                return;
+            }
 
             if (operation == "+")
             {

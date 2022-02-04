@@ -1,0 +1,17 @@
+C:\Users\Chris\source\repos\testForms\testForms\bin\Debug\net6.0-windows\testForms.exe
+C:\Users\Chris\source\repos\testForms\testForms\bin\Debug\net6.0-windows\testForms.deps.json
+C:\Users\Chris\source\repos\testForms\testForms\bin\Debug\net6.0-windows\testForms.runtimeconfig.json
+C:\Users\Chris\source\repos\testForms\testForms\bin\Debug\net6.0-windows\testForms.dll
+C:\Users\Chris\source\repos\testForms\testForms\bin\Debug\net6.0-windows\ref\testForms.dll
+C:\Users\Chris\source\repos\testForms\testForms\bin\Debug\net6.0-windows\testForms.pdb
+C:\Users\Chris\source\repos\testForms\testForms\obj\Debug\net6.0-windows\testForms.csproj.AssemblyReference.cache
+C:\Users\Chris\source\repos\testForms\testForms\obj\Debug\net6.0-windows\testForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\source\repos\testForms\testForms\obj\Debug\net6.0-windows\testForms.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\testForms\testForms\obj\Debug\net6.0-windows\testForms.AssemblyInfo.cs
+C:\Users\Chris\source\repos\testForms\testForms\obj\Debug\net6.0-windows\testForms.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\testForms\testForms\obj\Debug\net6.0-windows\testForms.dll
+C:\Users\Chris\source\repos\testForms\testForms\obj\Debug\net6.0-windows\ref\testForms.dll
+C:\Users\Chris\source\repos\testForms\testForms\obj\Debug\net6.0-windows\testForms.pdb
+C:\Users\Chris\source\repos\testForms\testForms\obj\Debug\net6.0-windows\testForms.genruntimeconfig.cache
+C:\Users\Chris\source\repos\testForms\testForms\obj\Debug\net6.0-windows\testForms.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\testForms\testForms\obj\Debug\net6.0-windows\testForms.StringExt.resources

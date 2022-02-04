@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\testForms\\testForms\\testForms.csproj",
+      "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\testForms\\testForms\\testForms\\testForms.csproj",
       "projectName": "testForms",
-      "projectPath": "C:\\Users\\Chris\\source\\repos\\testForms\\testForms\\testForms.csproj",
+      "projectPath": "C:\\Users\\Chris\\source\\repos\\testForms\\testForms\\testForms\\testForms.csproj",
       "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chris\\source\\repos\\testForms\\testForms\\obj\\",
+      "outputPath": "C:\\Users\\Chris\\source\\repos\\testForms\\testForms\\testForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
